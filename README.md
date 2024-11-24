@@ -12,4 +12,4 @@ pip install -r requirements.txt
 ```
 3. Run the training script in the [notebook script](./robust_segmentation_training_console.ipynb).
 # Result
-![](./fig/teaser.png)
+![](./fig/teaser.PNG)
